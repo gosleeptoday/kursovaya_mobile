@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name" translatable="false">Сканер QR</string>
+
+  <string name="qr_button" translatable="false">Открыть сканер</string>
+  <string name="ok_action" translatable="false">OK</string>
+  <string name="open_action" translatable="false">Открыть</string>
+</resources>
